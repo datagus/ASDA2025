@@ -12,12 +12,12 @@ Check the Python Landscape: https://sustainabilitymethods.org/index.php/Python_L
 ## 📂 Repository Structure
 
 ASDA2025/
-├── notebooks/           # Jupyter notebooks used in class or for exercises
-│   ├── 
-├── datasets/            # Example datasets used in exercises or homework
-│   ├── 
-├── resources/           # Supplementary materials and references
-│   ├── 
-├── .gitignore           # Files and folders to be ignored by Git
-└── README.md            # Course overview and usage instructions
 
+├── notebooks/          
+│   ├── 
+├── datasets/      
+│   ├── 
+├── resources/ 
+│   ├── 
+├── .gitignore         
+└── README.md            
