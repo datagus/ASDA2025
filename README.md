@@ -9,12 +9,14 @@ The course introduces students to the principles and practices of statistical da
 
 Check the Python Landscape: https://sustainabilitymethods.org/index.php/Python_Landscape
 
-## 📂 Repository Structure
+<pre><code>## 📂 Repository Structure
 
+```
 ASDA2025/
-
 ├── notebooks/
 ├── datasets/
 ├── resources/
 ├── .gitignore
-└── README.md 
+└── README.md
+```
+</code></pre>
