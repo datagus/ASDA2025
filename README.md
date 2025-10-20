@@ -12,12 +12,8 @@ Check the Python Landscape: https://sustainabilitymethods.org/index.php/Python_L
 ## 📂 Repository Structure
 
 ASDA2025/
-
 ├── notebooks/          
-│   ├── 
-├── datasets/      
-│   ├── 
-├── resources/ 
-│   ├── 
+├── datasets/     
+├── resources/
 ├── .gitignore         
 └── README.md            
