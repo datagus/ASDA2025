@@ -1,0 +1,148 @@
+country: 
+The country or geographic region.
+
+date: 
+Date of the measurement. This column along with country can be used as index.
+
+agricultural_land%: 
+Agricultural land as a % of land area of the country/region.
+
+forest_land%: 
+Forest area as the % of land area of the country/region.
+
+land_area: 
+Land area, measured in km^2.
+
+avg_precipitation: 
+Average precipitation in depth, measured in mm per year.
+
+trade_in_services%: 
+Trade in services as a % of GDP.
+
+control_of_corruption_estimate: 
+Index that makes an estimate of the control of corruption.
+
+control_of_corruption_std: 
+Standard error of the estimate of control of corruption.
+
+access_to_electricity%: 
+Percentage of the population that has access to electricity.
+
+renewvable_energy_consumption%: 
+Renewable energy consumption as a % of total final energy consumption.
+
+electric_power_consumption: 
+Electric power consumption, measured in kWh per capita.
+
+CO2_emisions: 
+CO2 emisions measured in kt.
+
+other_greenhouse_emisions: 
+Total greenhouse gas emissions, measured in kt of CO2 equivalent.
+
+population_density: 
+Population density, measured in people per km^2 of land area.
+
+inflation_annual%: 
+Inflation, consumer prices, as annual %.
+
+real_interest_rate: Real interest rate (%).
+
+risk_premium_on_lending: 
+Risk premium on lending (lending rate minus treasury bill rate, %).
+
+research_and_development_expenditure%: 
+Research and development expenditure, as a percentage of GDP.
+
+central_goverment_debt%: 
+Central government debt, total , as a % of GDP.
+
+tax_revenue%: 
+Tax revenue as a % of GDP.
+
+expense%: 
+Expense as a % of GDP.
+
+goverment_effectiveness_estimate: 
+Index that makes an estimate of the Government Effectiveness.
+
+goverment_effectiveness_std: 
+Standard error of the estimate of Government Effectiveness.
+
+human_capital_index: 
+Human Capital Index (HCI) (scale 0-1).
+
+doing_business: 
+Ease of doing business score (0 = lowest performance to 100 = best performance).
+
+time_to_get_operation_license: 
+Days required to obtain an operating license.
+
+statistical_performance_indicators: 
+Statistical performance indicators (SPI): Overall score (scale 0-100).
+
+individuals_using_internet%: 
+Percentage of population using the internet.
+
+logistic_performance_index: 
+Logistics performance index: Overall (1=low to 5=high).
+
+military_expenditure%: 
+Military expenditure as a % of GDP.
+
+GDP_current_US: 
+GDP (current US$).
+
+political_stability_estimate: 
+Index that makes an estimate of the Political Stability and Absence of Violence/Terrorism.
+
+political_stability_std: 
+Standard error of the estimate of Political Stability and Absence of Violence/Terrorism.
+
+rule_of_law_estimate: 
+Index that makes an estimate of the Rule of Law.
+
+rule_of_law_std: 
+Standard error of the estimate of Rule of Law.
+
+regulatory_quality_estimate: 
+Index that makes an estimate of Regulatory Quality.
+
+regulatory_quality_std: 
+Standard error of the estimate of Regulatory Quality.
+
+government_expenditure_on_education%: 
+Government expenditure on education, total, as a % of GDP.
+
+government_health_expenditure%: 
+Domestic general government health expenditure as a % of GDP.
+
+multidimensional_poverty_headcount_ratio%: 
+Multidimensional poverty headcount ratio (% of total population).
+
+gini_index: 
+Gini index.
+
+birth_rate: 
+Birth rate, crude (per 1,000 people).
+
+death_rate: 
+Death rate, crude (per 1,000 people).
+
+life_expectancy_at_birth: 
+Life expectancy at birth, total (years).
+
+population: 
+Total population.
+
+rural_population: 
+Rural population.
+
+voice_and_accountability_estimate: 
+Index that makes an estimate of Voice and Accountability.
+
+voice_and_accountability_std: 
+Standard error of the estimate of Voice and Accountability.
+
+intentional_homicides: 
+Intentional homicides (per 100,000 people).
