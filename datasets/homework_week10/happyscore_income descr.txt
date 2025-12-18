@@ -1,0 +1,11 @@
+About data: This study analyzes the association between the Happiness Index Score in 2018 and 2019, and a set of independent variables such as 'Overall rank', 'GDP per capita', 'Social support', 'Healthy life expectancy', 'Freedom to make life choices', 'Generosity' and 'Perceptions of corruption'. The objective of this study is to investigate the impact of these independent variables on the level of happiness of individuals during these two years. In addition, a country-wise analysis was conducted to examine variations in variables between the top-ranking happiest country and India. Multiple visualizations were employed to identify and illustrate these differences in a clear and concise manner.
+
+Overall rank: List of ranks of different countries from 1 to 156
+Country or region: List of the names of different countries.
+Score: List of happiness scores of different countries.
+GDP per capita: The GDP per capita score of different countries.
+Social support: The social support of different countries.
+Healthy life expectancy: The healthy life expectancy of different countries.
+Freedom to make life choices: The score of perception of freedom of different countries.
+Generosity: Generosity (the quality of being kind and generous) score of different countries.
+Perceptions of corruption: The score of the perception of corruption in different countries.
